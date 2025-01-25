@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Christopher Cortes, a software developer @ Brigham Young University - Idaho. I like learning programming languages and building new software to make life easier. I would like to travel the world and learn how people in their culture make use of technology.
+I am Christopher Cortés, a software developer @ Brigham Young University - Idaho. I like learning programming languages and building new software to make life easier. I would like to travel the world and learn how people in their culture make use of technology.
 
 Python was my first programming language. I learned the syntax quite well and had a lot of fun writing programs with Python. Later, I learned JavaScript, Java, C#, and Kotlin. These programming languages helped me understand better the programming logic which has made a lot of sense now.
 
